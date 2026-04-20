@@ -86,10 +86,10 @@ equacdatalab-analisis/
 Análisis Exploratorio de Datos
 
 ### Yoimer Ospino Zambrano
-Visualización de Datos
+Procesamiento y Limpieza de Datos
 
 ### Alberto Salcedo Buitrago
-Procesamiento y Limpieza de Datos
+Visualización de Datos
 
 **Estrategia:** EQUAC DATALAB
 
